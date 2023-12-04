@@ -4,4 +4,4 @@ const nextConfig = {
 };
 import "./env.mjs";
 
-module.exports = nextConfig;
+export default nextConfig;
